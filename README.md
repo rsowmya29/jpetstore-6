@@ -92,17 +92,8 @@ Perform integration tests for screen transition.
 ```
 $ ./mvnw clean verify -P tomcat90
 ```
-nsnsansa
-cnmsacmsamnmsa
-csamsanmsamca
-jnbdnnmnma
-samsanmsanmsa
-sacsamc,samcsa
-csacsac,.sac
-sac ,sac
-sac,msac,sac
-sacsam c,sac
-sac,sac,sac
-sacsa,mc ,sac
-sac,samc.,sacsa
-csa, c,sacsa
+etdrfhgyjhmtfryj
+ersgtdthfku
+esrgtdthgkj
+rgdbkn
+gfhjbk,n,k
